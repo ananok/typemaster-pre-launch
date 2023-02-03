@@ -510,6 +510,7 @@ span {
   }
 
   .block-two-img{
+    display: block;
     width: 255px;
     height: 236px;
     background: #E8EFF2;
